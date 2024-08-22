@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="flow chart"/>
+        <attribute name="authors" value="MASHALLAH"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-08-22 11:31:11 AM"/>
+        <attribute name="created" value="TUFTSEFMTEFIO0RFU0tUT1AtRjIyS0VOMDsyMDI0LTA4LTIyOzExOjI2OjE5IEFNOzI5NDM="/>
+        <attribute name="edited" value="TUFTSEFMTEFIO0RFU0tUT1AtRjIyS0VOMDsyMDI0LTA4LTIyOzExOjMxOjExIEFNOzE7MzAzOQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="name" type="String" array="False" size=""/>
+            <assign variable="name" expression="&quot;hira&quot;"/>
+            <output expression="&quot;hello&quot;&amp; name" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
